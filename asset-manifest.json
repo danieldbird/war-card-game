@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/war-card-game/static/css/main.b3f64386.css",
+    "main.css": "/war-card-game/static/css/main.779325d8.css",
     "main.js": "/war-card-game/static/js/main.68b37496.js",
     "static/js/787.ea9c5d8b.chunk.js": "/war-card-game/static/js/787.ea9c5d8b.chunk.js",
     "static/media/card-bg.jpeg": "/war-card-game/static/media/card-bg.12436dac4e1ea2ed8ac1.jpeg",
     "index.html": "/war-card-game/index.html",
-    "main.b3f64386.css.map": "/war-card-game/static/css/main.b3f64386.css.map",
+    "main.779325d8.css.map": "/war-card-game/static/css/main.779325d8.css.map",
     "main.68b37496.js.map": "/war-card-game/static/js/main.68b37496.js.map",
     "787.ea9c5d8b.chunk.js.map": "/war-card-game/static/js/787.ea9c5d8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f64386.css",
+    "static/css/main.779325d8.css",
     "static/js/main.68b37496.js"
   ]
 }
