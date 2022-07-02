@@ -58,16 +58,6 @@ h1 {
   color: rgb(169, 22, 22);
 }
 
-.chip-top {
-  position: relative;
-  top: -8px;
-}
-
-.chip-bottom {
-  position: absolute;
-  top: 8px;
-}
-
 .text-area {
   color: white;
   display: flex;
